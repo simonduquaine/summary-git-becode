@@ -6,5 +6,9 @@ Here are the commands I found **useful** while learning Git.
 
 git clone:  
 > ***$*** git clone [url]
-> - This command is used to obtain a repository from an existing URL.
+> - This command is used to obtain a repository from an existing URL.  
+  
+git add:  
+> ***$*** git add [file]
+> - This command adds one or more file to the staging area.
 
