@@ -3,5 +3,5 @@
 ### Git commands
 
 git clone:  
-> git clone [url]
+> **$** git clone [url]
 
