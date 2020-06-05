@@ -2,3 +2,6 @@
 
 ### Git commands
 
+git clone:  
+> git clone [url]
+
