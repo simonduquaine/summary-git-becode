@@ -30,5 +30,10 @@ git branch:
 > ***$*** git branch -d [branch name]
 > - This command is used to delete a branch  
   
-
+git checkout:
+> ***$*** git checkout [branch name]
+> - This command is used to switch to the branch
+>
+> ***$*** git checkout -d [branch name]
+> - This command is used to create the branch and switches to it  
 
