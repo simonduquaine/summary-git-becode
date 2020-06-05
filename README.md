@@ -10,5 +10,10 @@ git clone:
   
 git add:  
 > ***$*** git add [file]
-> - This command adds one or more file to the staging area.
+> - This command adds one or more file to the staging area.  
+  
+git commit:
+> ***$*** git commit -m "explain your commit"
+> - This command records or snapshots the file permanently in the version history.
+
 
